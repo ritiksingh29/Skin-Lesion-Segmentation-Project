@@ -20,8 +20,8 @@ As the structure may be not in sequence, you are advised to check your requireme
 Datasets Used
 Skin cancer ISIC The International Skin Imaging Collaboration and HAM10000 datasets are used for the task.
 
-the Skin cancer dataset by ISIC can be found on Skin cancer ISIC The International Skin Imaging Collaboration
+the Skin cancer dataset by ISIC can be found on [Skin cancer ISIC The International Skin Imaging Collaboration](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/)
 
-the MNIST HAM10k dataset can be found on HAM10k
+the MNIST HAM10k dataset can be found on [HAM10k](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/)
 
 
