@@ -1,27 +1,29 @@
-# Skin-Lesion-Segmentation-Project
+# skin-lesion-segmentation-project
+A  Deep Learning CNN based Segmentation project.
 
-A Deep Learning CNN based Segmentation project. 
-research paper link : https://www.researchsquare.com/article/rs-3417922/v1
+### Installation
+- Create a Conda environment or a Virtual Environment based on your convinience.
 
-Installation
-Create a Conda environment or a Virtual Environment based on your convinience.
+- Open terminal in the directory where the environment is created or can use CLI from any Code Editor terminal.
 
-Open terminal in the directory where the environment is created or can use CLI from any Code Editor terminal.
+- Install all the dependencies listed in requirement.txt or simply run the requirement.txt file by the command 
 
-Install all the dependencies listed in requirement.txt or simply run the requirement.txt file by the command
-
+```
 pip install requirement.txt
-the requirement.txt file will be added soon.
+```
 
-Once all the requirements are installed run the main.py python file.
+- the **requirement.txt** file will be added soon.
 
-As the structure may be not in sequence, you are advised to check your requirements and run the files accordingly.
+- Once all the requirements are installed run the **main.py** python file.
 
-Datasets Used
-Skin cancer ISIC The International Skin Imaging Collaboration and HAM10000 datasets are used for the task.
+- As the structure may be not in sequence, you are advised to check your requirements and run the files accordingly.
 
-the Skin cancer dataset by ISIC can be found on [Skin cancer ISIC The International Skin Imaging Collaboration](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/)
+### Datasets Used
+- **Skin cancer ISIC The International Skin Imaging Collaboration** and **HAM10000** datasets are used for the task.
 
-the MNIST HAM10k dataset can be found on [HAM10k](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/)
+- the Skin cancer dataset by ISIC can be found on [**Skin cancer ISIC The International Skin Imaging Collaboration**](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic/)
 
+- the MNIST HAM10k dataset can be found on [**HAM10k**](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/)
 
+### Results
+- will be added soon.
