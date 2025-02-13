@@ -26,4 +26,6 @@ pip install requirement.txt
 - the MNIST HAM10k dataset can be found on [**HAM10k**](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/)
 
 ### Results
-- will be added soon.
+- Dice Coefficient: 0.9555
+- Jaccard Index: 0.8545
+- Accuracy: 95.87%.
